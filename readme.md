@@ -31,7 +31,6 @@ npm config set puppeteer_download_host=https://npm.taobao.org/mirrors
 npm i puppeteer
 ```
 
-
 ### 特点
 
 自动生成 PDF 版简历
