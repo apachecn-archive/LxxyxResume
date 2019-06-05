@@ -31,14 +31,6 @@ npm config set puppeteer_download_host=https://npm.taobao.org/mirrors
 npm i puppeteer
 ```
 
-#### 推荐使用淘宝chromium源安装
-
-简单方便还快速
-```
-npm config set puppeteer_download_host=https://npm.taobao.org/mirrors
-npm i puppeteer
-```
-
 
 ### 特点
 
